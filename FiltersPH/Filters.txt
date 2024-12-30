@@ -1,0 +1,72 @@
+Appinfo
+
+   Contains [Case insensitive]:
+
+C:\ > .exe
+
+-----------------------
+
+BFE [Base Filtering Engine]
+
+   Contains [Case insensitive]:
+
+TCP Query user
+
+UDP Query user
+
+-----------------------
+
+
+Cdpusersvc
+
+   Contains [Case insensitive]:
+
+{"displayText" > .exe
+
+"activationUri"
+
+platform > .exe
+
+x_exe_path > .com
+
+@{"displayText"
+
+------------------------
+
+Csrss [Poca Memoria]
+
+   Contains [Case insensitive]:
+
+Regex (Case-insensitive) > ^(?!C:)[A-Z]:[\\](?!\+|(u){FFFF}|rkr) [Discos que no sean C:\]
+
+Regex (Case-insensitive) > ^[a-z]:.+\.((?!exe|pyd|manifest|dll|config|\\|cpl|microsoft-|shell).)*$ [Extensiones modificadas]
+
+------------------------
+
+Csrss [Pocos Bytes]
+
+   Contains [Case insensitive]:
+
+:\ > .exe
+
+.exe.config
+
+??\ > .exe
+
+   Regex (case insensitive)]:
+
+^[a-z]:.+\.((?!exe|pyd|manifest|dll|config|\\|cpl|microsoft-|shell).)*$
+
+------------------------
+
+Diagtrack
+
+   Contains [Case insensitive]:
+
+\device\harddiskvolume > .exe
+
+   Regex (Case-insensitive):
+
+ > ^\\device\\harddiskvolume((?!Exe|dll).)*$ 
+
+

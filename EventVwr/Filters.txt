@@ -1,0 +1,15 @@
+Security:
+
+4616 : Cambio de hora
+1102 : Vacía el registro de EventVwr
+4634 : Cambio de usuario
+
+Aplicattion:
+
+3079 : Borrar USN Journal
+
+Kernel-PnP
+
+420 : Se elimino un volumen
+410 : Se creo o inicio un volumen
+400 : Se configuro un dispositivo
