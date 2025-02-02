@@ -1,4 +1,4 @@
-# Aplicaciones de Screenshots (Capturas de Pantalla)
+# Aplicaciones de Screenshare
 
 Este repositorio contiene una colección de **aplicaciones** y **herramientas** para hacer **SS**.
 
